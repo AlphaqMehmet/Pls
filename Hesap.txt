@@ -1,0 +1,4 @@
+﻿wait 3 seconds
+send /login tokkot44
+wait 3 seconds
+send /skyblock
